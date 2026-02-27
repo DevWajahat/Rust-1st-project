@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/DevWajahat/Rust-1st-project">
-    <img src="https://i.ibb.co/Y7mn2td1/image.png" alt="Logo" width="800" />
+  <a href="[https://github.com/DevWajahat/Rust-1st-project](https://github.com/DevWajahat/Rust-1st-project)">
+    <img src="[https://i.ibb.co/Y7mn2td1/image.png](https://i.ibb.co/Y7mn2td1/image.png)" alt="Logo" width="800" />
   </a>
 
   <h1 align="center">First program Hello World and print function</h1>
@@ -9,12 +9,12 @@
     Started Learning Rust programming language for my upcoming project for CLI related tools
     <br />
     <br />
-    <a href="https://github.com/DevWajahat/Rust-1st-project/blob/master/readme.md"><strong>Explore the docs »</strong></a>
+    <a href="[https://github.com/DevWajahat/Rust-1st-project/blob/master/README.md](https://github.com/DevWajahat/Rust-1st-project/blob/master/README.md)"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DevWajahat/Rust-1st-project/issues">Report Bug</a>
+    <a href="[https://github.com/DevWajahat/Rust-1st-project/issues](https://github.com/DevWajahat/Rust-1st-project/issues)">Report Bug</a>
     ·
-    <a href="https://github.com/DevWajahat/Rust-1st-project/issues">Request Feature</a>
+    <a href="[https://github.com/DevWajahat/Rust-1st-project/issues](https://github.com/DevWajahat/Rust-1st-project/issues)">Request Feature</a>
   </p>
 </div>
 
@@ -32,13 +32,11 @@
 
 ### 📷 Screenshots
 
-<p align="center">
-  <img src="https://i.ibb.co/Y7mn2td1/image.png" alt="screenshot-1" width="800"/>
-</p>
+![Screenshot 1](https://i.ibb.co/Y7mn2td1/image.png)
 
-<p align="center">
-  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-1" />
-</p>
+<br />
+
+![Screenshot 2](https://i.ibb.co/7NdzXMj4/image.png)
 
 ### 👾 Tech Stack
 
@@ -59,16 +57,17 @@
 
 ### ‼️ Prerequisites
 
-* Make sure you have Rust toolchain installed on your computer and understanding of basic concepts.
+Make sure you have the Rust toolchain installed on your computer and an understanding of basic concepts.
 
-* Clone the project:
-  ```bash
-  git clone [https://github.com/DevWajahat/Rust-1st-project.git](https://github.com/DevWajahat/Rust-1st-project.git)
+**Clone the project:**
+
+```bash
+git clone https://github.com/DevWajahat/Rust-1st-project.git
 ```
-* Run the project:
 
-    ```bash
-    cd Rust-1st-project
-    rustc main.rs
-    ./main
+**Run The Project:**
+```bash
+cd Rust-1st-project
+rustc main.rs
+./main
 ```
