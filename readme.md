@@ -31,27 +31,24 @@
 ## 🌟 About the Project
 
 ### 📷 Screenshots
+
+
+
 <p align="center">
-  <img src="https://i.ibb.co/Y7mn2td1/image.png" alt="screenshot-1" width="100%"/>
+  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-2" width="100%" height="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-2" width="100%" height="100%" />
+  <img src="https://i.ibb.co/Y7mn2td1/image.png" alt="screenshot-1" width="100%"/>
 </p>
+
+
+---
 ### 👾 Tech Stack
 
 * [Rust](https://rust-lang.org/learn/)
-
-### 🎨 Color Reference
-
-| Color | Hex |
-| :--- | :--- |
-| Primary Color | ![#0e213d](https://via.placeholder.com/10/0e213d?text=+) `#0e213d` |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) `#393E46` |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) `#00ADB5` |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) `#EEEEEE` |
 
 ---
 
