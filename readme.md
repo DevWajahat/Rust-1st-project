@@ -1,7 +1,9 @@
 <div align="center">
-  <a href="[https://github.com/DevWajahat/Rust-1st-project](https://github.com/DevWajahat/Rust-1st-project)">
-    <img src="[https://i.ibb.co/Y7mn2td1/image.png](https://i.ibb.co/Y7mn2td1/image.png)" alt="Logo" width="800" />
+  <!-- commented because it was not looking like the intendet image
+  <a href="https://github.com/DevWajahat/Rust-1st-project">
+    <img src="https://i.ibb.co/Y7mn2td1/image.png" alt="Logo" width="800" />
   </a>
+  -->
 
   <h1 align="center">First program Hello World and print function</h1>
 
@@ -9,12 +11,12 @@
     Started Learning Rust programming language for my upcoming project for CLI related tools
     <br />
     <br />
-    <a href="[https://github.com/DevWajahat/Rust-1st-project/blob/master/README.md](https://github.com/DevWajahat/Rust-1st-project/blob/master/README.md)"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DevWajahat/Rust-1st-project/blob/master/README.md">Explore the docs</a>
     <br />
     <br />
-    <a href="[https://github.com/DevWajahat/Rust-1st-project/issues](https://github.com/DevWajahat/Rust-1st-project/issues)">Report Bug</a>
-    ·
-    <a href="[https://github.com/DevWajahat/Rust-1st-project/issues](https://github.com/DevWajahat/Rust-1st-project/issues)">Request Feature</a>
+    <a href="https://github.com/DevWajahat/Rust-1st-project/issues">Report Bug</a>
+        ·
+    <a href="https://github.com/DevWajahat/Rust-1st-project/issues">Request Feature</a>
   </p>
 </div>
 
@@ -28,9 +30,9 @@
 
 ---
 
-## 🌟 About the Project
+## About the Project
 
-### 📷 Screenshots
+### Screenshots
 
 
 
@@ -46,15 +48,15 @@
 
 
 ---
-### 👾 Tech Stack
+### Tech Stack
 
 * [Rust](https://rust-lang.org/learn/)
 
 ---
 
-## 🧰 Getting Started
+## Getting Started
 
-### ‼️ Prerequisites
+### Prerequisites
 
 Make sure you have the Rust toolchain installed on your computer and an understanding of basic concepts.
 
