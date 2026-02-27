@@ -9,7 +9,7 @@
     Started Learning Rust programming language for my upcoming project for CLI related tools
     <br />
     <br />
-    <a href="https://github.com/DevWajahat/Rust-1st-project/blob/master/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/DevWajahat/Rust-1st-project/blob/master/readme.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/DevWajahat/Rust-1st-project/issues">Report Bug</a>
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-2" width="800"/>
+  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-2" />
 </p>
 
 ### 👾 Tech Stack
