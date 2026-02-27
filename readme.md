@@ -38,7 +38,7 @@
 <br />
 
 <p align="center">
-  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-2" width="100%"/>
+  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-2" width="100%" height="100%" />
 </p>
 ### 👾 Tech Stack
 
