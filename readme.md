@@ -31,13 +31,15 @@
 ## 🌟 About the Project
 
 ### 📷 Screenshots
-
-![Screenshot 1](https://i.ibb.co/Y7mn2td1/image.png)
+<p align="center">
+  <img src="https://i.ibb.co/Y7mn2td1/image.png" alt="screenshot-1" width="100%"/>
+</p>
 
 <br />
 
-![Screenshot 2](https://i.ibb.co/7NdzXMj4/image.png)
-
+<p align="center">
+  <img src="https://i.ibb.co/7NdzXMj4/image.png" alt="screenshot-2" width="100%"/>
+</p>
 ### 👾 Tech Stack
 
 * [Rust](https://rust-lang.org/learn/)
