@@ -1,2 +1,4 @@
 # final binary
 main
+target
+*.log
